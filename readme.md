@@ -7,6 +7,9 @@ Algoritma ini bertujuan untuk mencetak serangkaian angka dari 100 hingga 1, deng
 1. Buka file `foobar.js` dalam text editor atau IDE JavaScript.
 2. Jalankan file `foobar.js` dalam lingkungan JavaScript, misalnya Node.js.
 
+## Output Soal 1
+![Hasil FooBar](ScreenshootHasil/Soal1.png)
+
 
 
 # Algoritma 2: Weather Forecast
@@ -19,3 +22,7 @@ Algoritma ini mengambil ramalan cuaca untuk kota tertentu menggunakan OpenWeathe
 2. Buka file `weather_forecast.js` dalam text editor atau IDE JavaScript.
 3. Gantilah variabel `apiKey`, `cityName`, dan `countryCode` sesuai dengan kota yang ingin Anda lihat ramalan cuacanya.
 4. Jalankan file `weather_forecast.js` dalam lingkungan JavaScript.
+
+## Output Soal 2
+![Hasil Ramalan Cuaca](ScreenshootHasil/Soal2.png)
+
